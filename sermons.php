@@ -9,7 +9,7 @@
  * Requires at least: 4.5
  * Tested up to: 4.8.2
  *
- * Text Domain: sermon-manager
+ * Text Domain: sermon-manager-for-wordpress
  * Domain Path: /languages/
  */
 
@@ -223,7 +223,7 @@ class SermonManager {
 	 * @return void
 	 */
 	public static function load_translations() {
-		load_plugin_textdomain( 'sermon-manager', false, SERMON_MANAGER_PATH . 'languages' );
+		load_plugin_textdomain( 'sermon-manager-for-wordpress', false, SERMON_MANAGER_PATH . 'languages' );
 	}
 
 	/**

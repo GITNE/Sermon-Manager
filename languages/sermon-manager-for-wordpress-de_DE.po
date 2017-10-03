@@ -2,154 +2,151 @@
 # This file is distributed under the same license as the package.
 msgid ""
 msgstr ""
-"Project-Id-Version: Sermon Manager 2.6\n"
+"Project-Id-Version: sermon-manager-for-wordpress\n"
 "Report-Msgid-Bugs-To: http://wordpress.org/tag/sermon-manager-for-wordpress\n"
 "POT-Creation-Date: 2017-09-30 07:03:00+0200\n"
 "PO-Revision-Date: 2017-09-30 07:03:00+0200\n"
 "Last-Translator: GITNE <GITNE@users.noreply.github.com>\n"
-"Language-Team: Polish\n"
-"Language: pl\n"
+"Language-Team: WP for Church\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
-"|| n%100>=20) ? 1 : 2);\n"
 
 #. translators: %s see msgid "View sermon", effectively <a href="%s">View sermon</a>
 #: includes/admin-functions.php:124
 msgid "Sermon updated. %s"
-msgstr "Zaktualizowano kazanie. %s"
+msgstr "Predigt aktualisiert. %s"
 
 #: includes/admin-functions.php:124
 msgid "View sermon"
-msgstr "Podgląd kazania"
+msgstr "Predigt ansehen"
 
 #: includes/admin-functions.php:125
 msgid "Custom field updated."
-msgstr "Zaktualizowano pole zindywidualizowane"
+msgstr "Benutzerdefiniertes Feld aktualisiert."
 
 #: includes/admin-functions.php:126
 msgid "Custom field deleted."
-msgstr "Usunięto pole zindywidualizowane"
+msgstr "Benutzerdefiniertes Feld gel&ouml;scht."
 
 #: includes/admin-functions.php:127
 msgid "Sermon updated."
-msgstr "Zaktualizowano kazanie"
+msgstr "Predigt aktualisiert."
 
 #: includes/admin-functions.php:129
 msgid "Sermon restored to revision from %s"
-msgstr "Przywr&oacute;cono stan kazania z %s"
+msgstr "Predigt von Revision %s wiederhergestellt"
 
 #. translators: %s see msgid "View sermon", effectively <a href="<URL>">View sermon</a>
 #: includes/admin-functions.php:130
 msgid "Sermon published. %s"
-msgstr "Opublikowano kazanie. %s"
+msgstr "Predigt ver&ouml;ffentlicht. %s"
 
 #: includes/admin-functions.php:131
 msgid "Sermon saved."
-msgstr "Zapisano kazanie."
+msgstr "Predigt gespeichert."
 
 #: includes/admin-functions.php:132
 msgid "Preview sermon"
-msgstr "Podgląd prototypu kazania"
+msgstr "Vorschau ansehen"
 
 #. translators: %s see msgid "Preview sermon", effectively <a target="_blank" href="<URL>">Preview sermon</a>
 #: includes/admin-functions.php:132
 msgid "Sermon submitted. %s"
-msgstr "Wysłano kazanie. %s"
+msgstr "Predigt abgeschickt. %s"
 
 #. translators: %1$s see msgid "%1$s at %2$s", effectively <strong><date> at <time></strong>
 #. translators: %2$s see msgid "Preview sermon", effectively <a target="_blank" href="<URL>">Preview sermon</a>
 #: includes/admin-functions.php:133
 msgid "Sermon scheduled for: %1$s. %2$s"
-msgstr "Zaplanowano kazanie na %1$s. %2$s"
+msgstr "Predigt eingeplant f&uuml;r %1$s. %2$s"
 
 #. translators: %1$s date
 #. translators: %2$s time
 #: includes/admin-functions.php:135
 msgid "%1$s at %2$s"
-msgstr "%1$s o godzinie %2$s"
+msgstr "%1$s um %2$s Uhr"
 
 #. translators: %s see msgid "Preview sermon", effectively <a target="_blank" href="<URL>">Preview sermon</a>
 #: includes/admin-functions.php:136
 msgid "Sermon draft updated. %s"
-msgstr "Zaktualizowano szkic kazania. %s"
+msgstr "Predigtentwurf aktualisiert. %s"
 
 #: includes/admin-functions.php:189
 msgid "Sermon Title"
-msgstr "Tytuł kazania"
+msgstr "Predigttitel"
 
 #: includes/admin-functions.php:191 includes/types-taxonomies.php:120
 #: includes/types-taxonomies.php:121 includes/types-taxonomies.php:122
 msgid "Sermon Series"
-msgstr "Seria kazań"
+msgstr "Predigtserie"
 
 #: includes/admin-functions.php:192
 msgid "Topics"
-msgstr "Tematy"
+msgstr "Themen"
 
 #: includes/admin-functions.php:193
 msgid "Views"
-msgstr "Podglądy"
+msgstr "Einblendungen"
 
 #: includes/admin-functions.php:194 includes/types-taxonomies.php:301
 msgid "Date Preached"
-msgstr "Data wygłoszenia"
+msgstr "Gehalten am"
 
 #: includes/admin-functions.php:195
 msgid "Bible Passage"
-msgstr "Fragment biblii"
+msgstr "Bibelstelle"
 
 #. translators: %s see msgid "Error:"
 #: includes/admin-functions.php:212
 msgid "%s Can&rsquo;t find sermon ID."
-msgstr "%s Nie znaleziono identyfikatora kazania."
+msgstr "%s Die Predigt&#8209;ID kann nicht gefunden werden"
 
 #: includes/admin-functions.php:212
 msgid "Error:"
-msgstr "Błąd:"
+msgstr "Fehler:"
 
 #: includes/admin-functions.php:306
 msgid "%s sermon"
 msgid_plural "%s sermons"
-msgstr[0] "%s kazanie"
-msgstr[1] "%s kazania"
-msgstr[2] "%s kazań"
+msgstr[0] "%s Predigt"
+msgstr[1] "%s Predigten"
 
 #: includes/helper-functions.php:193 includes/template-tags.php:129
 #: includes/template-tags.php:426 includes/template-tags.php:465
 msgid "Series: "
-msgstr "Seria: "
+msgstr "Serie: "
 
 #: includes/options.php:74
 msgid "Sermon Manager Settings"
-msgstr "Ustawienia Menadżera Kazań"
+msgstr "Optionen der Predigtverwaltung"
 
 #: includes/options.php:94 includes/options.php:770
 #: includes/taxonomy-images/taxonomy-images.php:333
 #: includes/taxonomy-images/taxonomy-images.php:1238
 msgid "Settings"
-msgstr "Ustawienia"
+msgstr "Einstellungen"
 
 #: includes/options.php:99
 msgid "Support"
-msgstr "Wsparcie"
+msgstr "Hilfe"
 
 #: includes/options.php:108 includes/taxonomy-images/taxonomy-images.php:1263
 msgid "Manage Settings"
-msgstr "Zarządzaj ustawieniami"
+msgstr "Einstellungen"
 
 #: includes/options.php:197
 msgid "Sermon Manager Options"
-msgstr "Opcje Menadżera Kazań"
+msgstr "Einstellungen der Predigtverwaltung"
 
 #: includes/options.php:203
 msgid "General"
-msgstr "Og&oacute;lne"
+msgstr "Allgemein"
 
 #: includes/options.php:205
 msgid "Verse"
-msgstr "Werset"
+msgstr "Vers"
 
 #: includes/options.php:207
 msgid "Podcast"
@@ -157,11 +154,11 @@ msgstr ""
 
 #: includes/options.php:213
 msgid "Options saved"
-msgstr "Zapisano ustawienia"
+msgstr "Einstellungen gespeichert."
 
 #: includes/options.php:222
 msgid "Need Some Help?"
-msgstr "Potrzebujesz trochę pomocy?"
+msgstr "Etwas Hilfe n&ouml;tig?"
 
 #. translators: %s see msgid "Sign up"
 #: includes/options.php:224
@@ -169,66 +166,67 @@ msgid ""
 "Did you know you can get expert support for only $49 per year! %s today and "
 "get support from the developers who are building the Sermon Manager."
 msgstr ""
-"Czy wiesz, że od ekspert&oacute;w możesz pozyskać wsparcie techniczne już za "
-"tylko $49 rocznie? %s dziś i otrzymuj wsparcie techniczne od tw&oacute;"
-"rc&oacute;w Menadżera Kazań!"
+"Schon gewusst? Bereits f&uuml;r nur $49 j&auml;hrlich ist Kundenunterst&uuml;"
+"tzung von Experten zu haben. Noch heute %s und Unterst&uuml;tzung von den "
+"Entwicklern der Predigtverwaltung f&uuml;r Wordpress erhalten."
 
 #: includes/options.php:224
 msgid "Sign up"
-msgstr "Zarejestruj się"
+msgstr "registrieren"
 
 #: includes/options.php:227
 msgid "Free&nbsp;Support"
-msgstr "Wsparcie&nbsp;bezpłatne"
+msgstr "Kostenlose&nbsp;Unterst&uuml;tzung"
 
 #: includes/options.php:228
 msgid "Priority&nbsp;Support"
-msgstr "Wsparcie&nbsp;priorytetowe"
+msgstr "Bevorzugte&nbsp;Unterst&uuml;tzung"
 
 #: includes/options.php:231
 msgid "We offer limited free support via WordPress.org"
-msgstr "Udzielamy ograniczonego bezpłatnego wsparcia w ramach WordPress.org."
+msgstr ""
+"Wir bieten begrenzt kostenlose Unterst&uuml;tzung &uuml;ber WordPress.org an."
 
 #: includes/options.php:238
 msgid "Frequently Asked Questions"
-msgstr "Często zadawane pytania"
+msgstr "H&auml;ufig gestellte Fragen"
 
 #. translators: %s see msgid "Knowledge base"
 #: includes/options.php:253
 msgid "Find out more in our %s"
-msgstr "Dowiedz się więcej z naszej %s"
+msgstr "Finde weiteres in unserer %s heraus"
 
 #: includes/options.php:253
 msgid "knowledge base"
-msgstr "bazy wiedzy"
+msgstr "Wissensbasis"
 
 #: includes/options.php:259
 msgid "Lets Make It Even Better!"
-msgstr "Ulepszmy to razem!"
+msgstr "Lasst uns es noch besser machen!"
 
 #: includes/options.php:264
 msgid "Submit&nbsp;Your&nbsp;Idea"
-msgstr "Wyślij&nbsp;Tw&oacute;j&nbsp;pomysł"
+msgstr "Idee&nbsp;&uuml;bermitteln"
 
 #: includes/options.php:267
 msgid ""
 "If you have ideas on how to make Sermon Manager or any of our products "
 "better, let us know!"
 msgstr ""
-"Jeśli masz pomysły na ulepszenie Menadżera Kazań lub naszych innych "
-"produkt&oacute;w, to daj nam znać!"
+"Sie haben Ideen zur Verbesserung der Predigtverwaltung f&uuml;r Wordpress "
+"oder unser anderen Produkte? Lassen Sie es uns wissen!"
 
 #: includes/options.php:277
 msgid "General Settings"
-msgstr "Ustawienia og&oacute;lne"
+msgstr "Allgemeine Einstellungen"
 
 #: includes/options.php:281
 msgid "Archive Page Title"
-msgstr "Tytuł strony archiwum"
+msgstr "Titel der Archivseite"
 
 #: includes/options.php:289
 msgid "Archive Page Slug"
-msgstr "Uproszczona nazwa strony archiwum"
+msgstr "Titelform der Archivseite"
 
 #. translators: %1$s see msgid "sermons/preacher", effectively <code>sermons/preacher</code>
 #. translators: %2$s see msgid "sermons/series", effectively <code>sermons/series</code>
@@ -237,42 +235,41 @@ msgid ""
 "Common Base Slug &mdash; this is for users who want to have a common base "
 "slug across all taxonomies, e.g. %1$s or %2$s."
 msgstr ""
-"Wsp&oacute;lna podstawa uproszczonej nazwy &mdash; dla użytkownik&oacute;w, "
-"kt&oacute;rzy chcą posiadać wsp&oacute;lną podstawową uproszczoną nazwę nad "
-"wszystkimi systematykami, np. %1$s lub %2$s."
+"Gemeinsame Grundtitelform &mdash; dies ist f&uuml;r Benutzer, die eine "
+"gemeinsame Grundtitelform &uuml;ber alle Gruppierungen hinweg haben wollen, "
+"also z.B. %1$s oder %2$s."
 
 #: includes/options.php:297
 msgid "sermons/preacher"
-msgstr "kazania/kaznodzieja"
+msgstr "predigten/prediger"
 
 #: includes/options.php:297
 msgid "sermons/series"
-msgstr "kazania/seria"
+msgstr "predigten/serien"
 
 #: includes/options.php:302
 msgid "Enable a common base slug across all taxonomies"
 msgstr ""
-"Włącz wsp&oacute;lną podstawową uproszczoną nazwę nad wszystkimi "
-"systematykami"
+"Gemeinsame Grundtitelform &uuml;ber alle Gruppierungen hinweg aktivieren"
 
 #: includes/options.php:308
 msgid ""
 "Enable Template Files &mdash; this is for users upgrading from an older "
 "version who have issues with version 1.5+."
 msgstr ""
-"Włącz obsługę plik&oacute;w szablonowych &mdash; przewidziane dla "
-"użytkownik&oacute;w, kt&oacute;rzy aktualizują z przestarzałych wersji na "
-"wersje 1.5 lub wyższe."
+"Vorlagendateien aktivieren &mdash; Diese Option ist f&uuml;r Benutzer, die "
+"von einer &auml;lteren Version aktualisieren und Probleme mit Version 1.5+ "
+"haben."
 
 #. translators: %s effectively <code>/views</code>
 #. Since /views is a locale independent folder name it MUST NOT be localized
 #: includes/options.php:313
 msgid "Enable template files found in the %s folder"
-msgstr "Włącz obsługę plik&oacute;w szablonowych w podkatalogu %s"
+msgstr "Im Ordner %s gefundene Vorlagendateien aktivieren"
 
 #: includes/options.php:319
 msgid "Disable Sermon Styles"
-msgstr "Wyłącz style kazań"
+msgstr "CSS&#8209;Stile deaktivieren"
 
 #. translators: %s effectively <code>sermons.css</code>
 #. Since sermons.css is a locale independent file name it MUST NOT be localized
@@ -281,63 +278,64 @@ msgid ""
 "Disable Sermon CSS. If you do this, you should copy the styles from %s and "
 "include them in your theme CSS."
 msgstr ""
-"Wyłącz CSS kazań. Jeśli tego dokonasz, powinieneś skopiować style z %s i "
-"scalić je z Twoim motywem CSS."
+"CSS&#8209;Stile der Predigtverwaltung deaktivieren. Wird diese Option "
+"aktiviert, sollten die Stile aus der Datei %s im Pluginordner in die "
+"CSS&#8209;Datei des Themes kopiert werden."
 
 #: includes/options.php:338
 msgid "Display audio player or video on archive pages"
-msgstr "Wyświetlaj odtwarzacz audio lub wideo na stronach archiwum"
+msgstr "Einen Audiospieler oder Video auf Archivseiten einblenden"
 
 #: includes/options.php:343
 msgid "Display an audio player or video embed in the archive listing."
 msgstr ""
-"Wyświetlaj kod osadzania odtwarzacza audio lub wideo na liście archiwum"
+"Audiospieler oder ein eingebettetes Video in der Archivliste einblenden"
 
 #: includes/options.php:349 includes/options.php:354
 msgid "Use old audio player"
-msgstr "Używaj starego odtwarzacza dźwięku"
+msgstr "Alten Audiospieler verwenden"
 
 #: includes/options.php:352
 msgid ""
 "Custom label for &ldquo;Preacher&rdquo;. Note: it will also change preacher "
 "slugs."
 msgstr ""
-"Zindywidualizowana oznaka &bdquo;Kaznodzieja&rdquo;. Zauważ: To r&oacute;"
-"wnież zmieni uproszczone nazwy kaznodziei"
+"Benutzerdefinierter Begriff f&uuml;r &bdquo;Prediger/in&ldquo;. Hinweis: "
+"Dies wird auch die Prediger/innentitelform &auml;ndern."
 
 #: includes/options.php:360
 msgid "Sermon date format (used when creating a new Sermon)"
 msgstr ""
-"Format daty wygłoszenia kazania (potrzebne w trakcie tworzenia nowego "
-"kazania)"
+"Datumformat des Datums, an dem die Predigt gehalten wurde (wird bei der "
+"Erstellung einer neuen Predigt verwendet)"
 
 #: includes/options.php:389 includes/options.php:395
 msgid "Show key verse in widget"
-msgstr "Wyświetlaj werset kluczowy w widgetcie"
+msgstr "Schl&uuml;sselvers im Widget darstellen"
 
 #: includes/options.php:393
 msgid "Version %s"
-msgstr "Wersja %s"
+msgstr "Version %s"
 
 #: includes/options.php:406
 msgid "Current Version"
-msgstr "Wersja bieżąca"
+msgstr "Aktuelle Version"
 
 #: includes/options.php:414
 msgid "Verse Settings"
-msgstr "Ustawienia werset&oacute;w"
+msgstr "Verseinstellungen"
 
 #: includes/options.php:419
 msgid "Verse Popups"
-msgstr "Baloniki z wersetami"
+msgstr "Verseinblendungen"
 
 #: includes/options.php:425
 msgid "Disable Bib.ly verse popups"
-msgstr "Wyłącz baloniki z wersetami Bib.ly"
+msgstr "Bib.ly&#8209;Einblendungen deaktivieren"
 
 #: includes/options.php:431
 msgid "Select Bible Version for Verse Popups"
-msgstr "Wybierz wydanie biblii dla balonik&oacute;w z wersetami"
+msgstr "Bibelversion f&uuml;r Verseinblendungen ausw&auml;hlen"
 
 #. translators: %1$s effectively <code>ESV</code>
 #. translators: %2$s effectively <code>NET</code>
@@ -347,70 +345,70 @@ msgstr "Wybierz wydanie biblii dla balonik&oacute;w z wersetami"
 #: includes/options.php:444
 msgid "%1$s, %2$s, %3$s, or %4$s are the currently supported popups for %5$s."
 msgstr ""
-"Wyłącznie %1$s, %2$s, %3$s i %4$s są aktualnie obsługiwane dla "
-"balonik&oacute;w z wersetami %5$s."
+"Nur %1$s, %2$s, %3$s, oder %4$s werden f&uuml;r Einblendungen aus %5$s "
+"unterst&uuml;tzt."
 
 #: includes/options.php:449
 msgid "bib.ly"
-msgstr ""
+msgstr "Bib.ly"
 
 #. translators: %s see effectively <code>ESV</code>
 #: includes/options.php:451
 msgid "Warning! %s is not supported if your site uses SSL (HTTPS)."
 msgstr ""
-"UWAGA: W witrynach internetowych korzystających z SSL (HTTPS) %s nie jest "
-"obsługiwane."
+"WARNUNG: %s wird nicht unterst&uuml;tzt, wenn die Website SSL (HTTPS) "
+"verwendet."
 
 #: includes/options.php:464
 msgid "Podcast Settings"
-msgstr "Ustawienia podcastingowe"
+msgstr "Podcasteinstellungen"
 
 #: includes/options.php:486
 msgid "Title"
-msgstr "Tytuł"
+msgstr "Titel"
 
 #: includes/options.php:490 includes/options.php:500 includes/options.php:510
 #: includes/options.php:520 includes/options.php:555 includes/options.php:603
 #: includes/options.php:616
 msgid "e.g. %s"
-msgstr "np. %s"
+msgstr "z.B. %s"
 
 #: includes/options.php:496 includes/types-taxonomies.php:323
 msgid "Description"
-msgstr "Opis"
+msgstr "Beschreibung"
 
 #: includes/options.php:506
 msgid "Website Link"
-msgstr "Odnośnik witryny internetowej"
+msgstr "Webseite"
 
 #: includes/options.php:516
 msgid "Language"
-msgstr "Język"
+msgstr "Sprache"
 
 #: includes/options.php:526
 msgid "Copyright"
-msgstr "Prawa autorskie"
+msgstr "Urheberrechtshinweis"
 
 #: includes/options.php:530
 msgid "e.g. Copyright &copy; %s"
-msgstr "np. Copyright &copy; %s"
+msgstr "z.B. Copyright &copy; %s"
 
 #. translators: %s <code>&amp;copy;</code>
 #: includes/options.php:535
 msgid "Tip: Use %s to generate a copyright symbol."
-msgstr "Wskazówka: Stosuj %s, aby wygenerować symbol copyright."
+msgstr "Tipp: Verwende %s, um ein Copyright&#8209;Symbol zu erzeugen."
 
 #: includes/options.php:541
 msgid "Webmaster Name"
-msgstr "Nazwa zarządcy witryny internetowej"
+msgstr "Name des Webmasters"
 
 #: includes/options.php:545
 msgid "e.g. Your Name"
-msgstr "np. Twoje imię"
+msgstr "z.B. Dein Name"
 
 #: includes/options.php:551
 msgid "Webmaster Email"
-msgstr "E&#8209;mail zarządcy witryny internetowej"
+msgstr "E&#8209;Mail des Webmasters"
 
 #: includes/options.php:561
 msgid "Author"
@@ -418,36 +416,36 @@ msgstr "Autor"
 
 #: includes/options.php:565
 msgid "e.g. Primary Speaker or Church Name"
-msgstr "np. m&oacute;wca lub nazwa kościoła"
+msgstr "z.B. Hauptredner/in oder Name der Gemeinde"
 
 #: includes/options.php:569
 msgid "This will display at the &ldquo;Artist&rdquo; in the iTunes Store."
-msgstr "To będzie wyświetlane jako &bdquo;Wykonawca&rdquo; w sklepie iTunes."
+msgstr "Dies wird als &#8222;K&uuml;nstler&#8220; im iTunes Store angezeigt."
 
 #: includes/options.php:574
 msgid "Subtitle"
-msgstr "Podtytuł"
+msgstr "Untertitel"
 
 #: includes/options.php:578
 msgid "e.g. Preaching and teaching audio from %s"
-msgstr "np. słuchowisko kazań i nauczań z %s"
+msgstr "z.B. Predigten und Lehre von %s"
 
 #: includes/options.php:582
 msgid ""
 "Your subtitle should briefly tell the listener what they can expect to hear."
 msgstr ""
-"Podtytuł powinien w kr&oacute;tki spos&oacute;b opisywać czego słuchacze "
-"mogą się spodziewać."
+"Der Untertitel sollte dem H&ouml;rer oder der H&ouml;rerin einen knappen "
+"Eindruck vermitteln, was er oder sie erwarten kann."
 
 #: includes/options.php:587
 msgid "Summary"
-msgstr "Streszczenie"
+msgstr "Zusammenfassung"
 
 #: includes/options.php:591
 msgid "e.g. Weekly teaching audio brought to you by %s in City, State."
 msgstr ""
-"np. tygodniowe słuchowiska nauczań, produkowane przez %s w miasto, "
-"województwo."
+"z.B. die w&ouml;chentlichen Lehraufnahmen werden von %s in Stadt, Bundesland "
+"produziert."
 
 #: includes/options.php:594
 msgid ""
@@ -455,21 +453,20 @@ msgid ""
 "brief statement about your mission and in what region your audio content "
 "originates."
 msgstr ""
-"Ogranicz streszczenie podcastu do zachęcających i niezbędnych informacji. "
-"Nie zapomnij przedstawić Twojego posłania i regionu z kt&oacute;rego "
-"słuchowisko pochodzi."
+"Halte Deine Podcastzusammenfassung kurz, erfrischend und informativ. "
+"Erw&auml;hne auch was euer Ziel ist und woher die Audioinhalte kommen."
 
 #: includes/options.php:599
 msgid "Owner Name"
-msgstr "Nazwa właściciela"
+msgstr "Besitzername"
 
 #: includes/options.php:607
 msgid "This should typically be the name of your Church."
-msgstr "Zwykle, jest to nazwa kościoła."
+msgstr "Das sollte normalerweise der Name der Gemeinde sein."
 
 #: includes/options.php:612
 msgid "Owner Email"
-msgstr "E&#8209;mail właściciela"
+msgstr "E&#8209;Mail"
 
 #: includes/options.php:620
 msgid ""
@@ -477,17 +474,17 @@ msgid ""
 "wants to contact you regarding your Podcast this is the address they will "
 "use."
 msgstr ""
-"Używaj w tym celu adresu e&#8209;mail, kt&oacute;ry jest przeznaczony do "
-"korespondencji publicznej. Jeśli ktoś będzie miał zamiar się skontaktować z "
-"Tobą w sprawie podcastu, to będzie ten adres na kt&oacute;ry będą pisać."
+"Verwende eine E&#8209;Mail&#8209;Adresse, welche auf &ouml;ffentlich gemacht "
+"werden kann. Wenn Dich jemand bez&uuml;glich des Podcasts kontaktieren "
+"m&ouml;chte, wird das &uuml;ber diese Adresse geschehen."
 
 #: includes/options.php:625
 msgid "Cover Image"
-msgstr "Obraz okładki"
+msgstr "Bild"
 
 #: includes/options.php:632
 msgid "Upload Image"
-msgstr "Załaduj obraz"
+msgstr "Bild hochladen"
 
 #: includes/options.php:635
 msgid ""
@@ -495,77 +492,80 @@ msgid ""
 "must be between 1,400px by 1,400px and 3,000px by 3,000px or else iTunes "
 "will not accept your feed."
 msgstr ""
-"Ten obraz będzie służył jako dzieło rozpoznawcze podcastu w sklepie iTunes. "
-"Obraz musi się mieścić w rozmiarach od 1 400 na 1 400 piksli, do nie więcej "
-"niż 3 000 na 3 000 piksli."
+"Dieses JPG dient als Podcast&#8209;Cover im iTunes Store. Die Bildaufl&ouml;"
+"sung sollte zwischen 1.400px mal 1.400px und 3.000px mal 3.000px sein, "
+"ansonsten wird iTunes den Feed nicht akzeptieren."
 
 #: includes/options.php:640
 msgid "Top Category"
-msgstr "Kategoria naczelna"
+msgstr "Oberste Kategorie"
 
 #: includes/options.php:648
 msgid ""
 "Choose the appropriate top-level category for your Podcast listing in iTunes."
 msgstr ""
-"Wybierz właściwą kategorię naczelną dla Twojego podcastu w indeksie iTunes."
+"W&auml;hle eine passende Oberkategorie f&uuml;r den Podcasteintrag in iTunes."
 
 #: includes/options.php:653
 msgid "Sub Category"
-msgstr "Podkategoria"
+msgstr "Unterkategorie"
 
 #: includes/options.php:661
 msgid "Choose the appropriate sub category for your Podcast listing in iTunes."
-msgstr "Wybierz właściwą podkategorię dla Twojego podcastu w indeksie iTunes."
+msgstr ""
+"W&auml;hle eine passende Unterkategorie f&uuml;r den Podcasteintrag in "
+"iTunes."
 
 #: includes/options.php:666
 msgid "PodTrac Tracking"
-msgstr "Śledzenie PodTrac&#8209;iem"
+msgstr "PodTrac&#8209;Nachverfolung"
 
 #: includes/options.php:671
 msgid "Enables PodTrac tracking."
-msgstr "Włącza śledzenie PodTrac&#8209;iem"
+msgstr "PodTrac&#8209;Nachverfolung aktivieren"
 
 #. translators: %s <a href="http://podtrac.com">podtrac.com</a>
 #: includes/options.php:675
 msgid "For more info on PodTrac or to sign up for an account, visit %s"
 msgstr ""
-"Aby otrzymać więcej informacji o PodTrac&#8209;u lub zarejestrować konto, "
-"odwiedź %s."
+"Auf %s k&ouml;nnen weitere Informationen &uuml;ber PodTrac eingeholt oder "
+"ein Konto eingerichtet werden."
 
 #: includes/options.php:680
 msgid "HTML in description"
-msgstr "Obsługa HTML w opisie"
+msgstr "HTML in Beschreibung"
 
 #: includes/options.php:686
 msgid "Enable HTML description"
-msgstr "Włącz obsługę HTML w opisie"
+msgstr "HTML&#8209;Beschreibung aktivieren"
 
 #: includes/options.php:690
 msgid ""
 "Enables showing of HTML in iTunes description field. Uncheck if description "
 "looks messy."
 msgstr ""
-"Włącza obsługę HTML w polu &bdquo;opis&rdquo; wyświetlane w iTunes. Odhacz, "
-"jeśli opis wygląda zaburzony."
+"Aktiviert die Anzeige von HTML&#8209;Beschreibungen in iTunes. Falls die "
+"Beschreibung durcheinander aussieht, dann sollte die Einstellung deaktiviert "
+"bleiben."
 
 #: includes/options.php:695
 msgid "Number of podcasts to show"
-msgstr "Ilość pozycji w podcast&#8209;cie"
+msgstr "Anzahl der anzuzeigenden Podcasteintr&auml;ge"
 
 #: includes/options.php:704
 msgid ""
 "Shows custom podcast count. If not defined, it uses WordPress default count."
 msgstr ""
-"Wyświetla określoną ilość pozycji w podcast&#8209;cie. Jeśli ilość "
-"pozostanie niezdefiniowana, stosowana będzie domyślna ilość WordPressa."
+"Zeigt eine benutzerdefinierte Anzahl an Podcasteintr&auml;gen. Wird keine "
+"Anzahl festgelegt, wird die WordPress&#8209;Standardanzahl verwendet."
 
 #: includes/options.php:715
 msgid "Feed URL to Submit to iTunes"
-msgstr "URL kanału internetowego podcastu do przekazania iTunes"
+msgstr "Bei iTunes einzureichende Feed&#8209;URL"
 
 #: includes/options.php:722
 msgid "Feed Validator"
-msgstr "walidatora kanału internetowego"
+msgstr "Feed&#8209;Validator"
 
 #. translators: %s Feed Validator link, see msgid "Feed Validator"
 #: includes/options.php:722
@@ -573,8 +573,8 @@ msgid ""
 "Use the %s to diagnose and fix any problems before submitting your Podcast "
 "to iTunes."
 msgstr ""
-"Stosuj %s do diagnozy i naprawy wszelkich problem&oacute;w zanim wyślesz "
-"podcast do iTunes."
+"Bevor der Podcast bei iTunes eingereicht wird, kann der %s verwendet werden, "
+"um Probleme zu finden und zu beheben."
 
 #. translators: %s see msgid "Submit Your Podcast"
 #: includes/options.php:725
@@ -582,12 +582,12 @@ msgid ""
 "Once your Podcast Settings are complete and your Sermons are ready, it&rsquo;"
 "s time to %s to the iTunes Store!"
 msgstr ""
-"Gdy sfinalizujesz ustawienia podcastingowe i przygotujesz kazania, nadejdzie "
-"pora, aby %s do sklepu iTunes!"
+"Nachdem die Podcasteinstellungen komplett und die Predigten fertig sind, ist "
+"es Zeit %s!"
 
 #: includes/options.php:725
 msgid "Submit Your Podcast"
-msgstr "wysłać Tw&oacute;j podcast"
+msgstr "den Podcast beim iTunes Store einzureichen"
 
 #. translators: %s see msgid "FeedBurner"
 #: includes/options.php:727
@@ -596,9 +596,10 @@ msgid ""
 "the Podcast Feed URL above through %s. FeedBurner will then give you a new "
 "URL to submit to iTunes instead."
 msgstr ""
-"Jeśli chcesz śledzić abonent&oacute;w Twojego podcastu, po prostu przewlecz "
-"powyższy URL kanału internetowego podcastu przez %s. FeedBurner wtedy wyda "
-"Ci nowy URL, kt&oacute;ry w zamian przekażesz iTunes."
+"Alternativ, wenn Du die Aktivit&auml;t deiner Podcasth&ouml;rerinnen und "
+"&#8209;H&ouml;rer nachverfolgen m&ouml;chtest, leite die Feed&#8209;URL "
+"durch %s. FeedBurner gibt Dir dann eine neue URL, die Du dann stattdessen "
+"bei iTunes einreichen kannst."
 
 #: includes/options.php:727
 msgid "FeedBurner"
@@ -607,17 +608,15 @@ msgstr ""
 #. translators: %s see msgid "iTunes FAQ for Podcast Makers"
 #: includes/options.php:730
 msgid "Please read the %s for more information."
-msgstr "Proszę, zapoznaj się ze %s."
+msgstr "F&uuml;r weitere Informationen, bitte lies die Liste der %s durch."
 
 #: includes/options.php:730
 msgid "iTunes FAQ for Podcast Makers"
-msgstr ""
-"zbiorem często zadawanych pytań dla tw&oacute;rc&oacute;w podcast&oacute;w "
-"na iTunes"
+msgstr "h&auml;ufig gestellten Fragen f&uuml;r Podcastersteller auf iTunes"
 
 #: includes/options.php:751 includes/taxonomy-images/taxonomy-images.php:395
 msgid "Save Changes"
-msgstr "Zapisz zmiany"
+msgstr "&Auml;nderungen speichern"
 
 #: includes/shortcodes.php:781 includes/template-tags.php:114
 #: views/archive-wpfc_sermon.php:40 views/taxonomy-wpfc_bible_book.php:72
@@ -626,7 +625,7 @@ msgstr "Zapisz zmiany"
 #: views/taxonomy-wpfc_sermon_topics.php:79
 #: views/taxonomy-wpfc_service_type.php:72
 msgid "Permalink to %s"
-msgstr "Odnośnik wieczny do &bdquo;%s&rdquo;"
+msgstr "Permalink zu %s"
 
 #: includes/taxonomy-images/public-filters.php:385
 msgid ""
@@ -636,217 +635,216 @@ msgid ""
 "served by one of the following template files: category.php, tag.php or "
 "taxonomy.php. Learn more about %3$s."
 msgstr ""
-"&bdquo;%1$s&rdquo; nie jest właściwością bieżąco wyszukiwanego obiektu. To "
-"się zdarza, gdy filtr &bdquo;%2$s&rdquo; jest stosowany w nie obsługiwanym "
-"pliku szablonowym. Filtr ten, został opracowany dla archiw&oacute;w "
-"systematyk, kt&oacute;re tradycyjnie są obsługiwane przez jeden z "
-"następujących plik&oacute;w szablonowych: <code>category.php</code>, "
-"<code>tag.php</code> lub <code>taxonomy.php</code>. Dowiedz się więcej na "
-"temat &bdquo;%3$s&rdquo;."
+"&#8222;%1$s&#8220; ist nicht Inhalt des aktuell gesuchten Objekts. Das "
+"passiert normalerweise, wenn der Filter &#8222;%2$s&#8220; in einer nicht "
+"unterst&uuml;tzten Vorlage verwendet wird. Dieser Filter wurde so entworfen, "
+"dass er in Gruppierungsarchiven funktioniert, welche normaler weise von den "
+"Dateien <code>category.php</code>, <code>tag.php</code> oder <code>taxonomy."
+"php</code> bereitgestellt werden."
 
 #: includes/taxonomy-images/public-filters.php:386
 msgid "term_taxonomy_id"
-msgstr "hasło_systematyka_identyfikator"
+msgstr "begriff_gruppierung_id (Gruppierung = Taxonomie)"
 
 #: includes/taxonomy-images/taxonomy-images.php:130
 msgid "Associate with %1$s"
-msgstr "Powiąż z tym %1$s"
+msgstr "Mit &#8222;%1$s&#8220; verbinden"
 
 #: includes/taxonomy-images/taxonomy-images.php:130
 #: includes/taxonomy-images/taxonomy-images.php:131
 msgid "this term"
-msgstr "hasłem"
+msgstr "Begriff"
 
 #: includes/taxonomy-images/taxonomy-images.php:131
 msgid "Remove association with %1$s"
-msgstr "Usuń powiązanie z %1$s"
+msgstr "Verbindung mit &#8222;%1$s&#8220; entfernen"
 
 #: includes/taxonomy-images/taxonomy-images.php:290
 msgid "Image support for taxonomies successfully updated"
-msgstr "Uaktualniono obsługę obraz&oacute;w dla systematyki."
+msgstr "Bildunterst&uuml;tzung wurde erfolgreich aktualisiert"
 
 #: includes/taxonomy-images/taxonomy-images.php:293
 msgid "Image support has been disabled for all taxonomies."
-msgstr "Wyłączono obsługę obraz&oacute;w dla wszystkich systematyk."
+msgstr "Bildunterst&uuml;tzung wurde f&uuml;r alle Gruppierungen deaktiviert."
 
 #: includes/taxonomy-images/taxonomy-images.php:339
 msgid "Taxonomies"
-msgstr "Systematyki"
+msgstr "Gruppierungen"
 
 #: includes/taxonomy-images/taxonomy-images.php:359
 #: includes/taxonomy-images/taxonomy-images.php:360
 msgid "Taxonomy Images"
-msgstr "Obrazy systematyki"
+msgstr "Gruppierungsbilder"
 
 #: includes/taxonomy-images/taxonomy-images.php:387
 msgid "Taxonomy Images Plugin Settings"
-msgstr "Ustawienia wtyczki obraz&oacute;w systematyki"
+msgstr "Einstellungen des Gruppierungsbilder&#8209;Plugins"
 
 #: includes/taxonomy-images/taxonomy-images.php:447
 msgid "Unknown error encountered"
-msgstr "Nastąpił nieznany błąd."
+msgstr "Unbekannter Fehler"
 
 #: includes/taxonomy-images/taxonomy-images.php:529
 #: includes/taxonomy-images/taxonomy-images.php:611
 msgid "tt_id not sent"
-msgstr "Nie wysłano tt_id."
+msgstr "tt_id nicht gesendet"
 
 #: includes/taxonomy-images/taxonomy-images.php:537
 #: includes/taxonomy-images/taxonomy-images.php:619
 msgid "tt_id is empty"
-msgstr "tt_id jest puste."
+msgstr "tt_id ist leer"
 
 #: includes/taxonomy-images/taxonomy-images.php:544
 #: includes/taxonomy-images/taxonomy-images.php:626
 msgid "You do not have the correct capability to manage this term"
-msgstr "Brak poprawnej możliwości, aby zarządzać tym hasłem."
+msgstr "Keine Berechtigung, um diesen Begriff zu verwalten"
 
 #: includes/taxonomy-images/taxonomy-images.php:551
 #: includes/taxonomy-images/taxonomy-images.php:633
 msgid "No nonce included."
-msgstr "Nie podano wyrazu."
+msgstr "Begriffsbildung nicht enthalten."
 
 #: includes/taxonomy-images/taxonomy-images.php:558
 #: includes/taxonomy-images/taxonomy-images.php:640
 msgid "Nonce did not match"
-msgstr "Wyraz nie pasuje."
+msgstr "Begriffsbildung stimmte nicht &uuml;berein."
 
 #: includes/taxonomy-images/taxonomy-images.php:565
 msgid "Image id not sent"
-msgstr "Nie wysłano identyfikatora obrazu."
+msgstr "Keine Bild&#8209;Id versendet"
 
 #: includes/taxonomy-images/taxonomy-images.php:573
 msgid "Image id is not a positive integer"
-msgstr "Identyfikator obrazu nie jest pozytywną liczbą całkowitą."
+msgstr "Die Bild&#8209;Id ist keine positive Ganzzahl."
 
 #: includes/taxonomy-images/taxonomy-images.php:582
 msgid "Image successfully associated"
-msgstr "Powiązano obraz."
+msgstr "Das Bild wurde erfolgreich verbunden"
 
 #: includes/taxonomy-images/taxonomy-images.php:588
 msgid "Association could not be created"
-msgstr "Nie można utworzyć powiązania."
+msgstr "Die Verbindung konnte nicht erstellt werden"
 
 #: includes/taxonomy-images/taxonomy-images.php:648
 msgid "Nothing to remove"
-msgstr "Nic do usunięcia."
+msgstr "Nichts zu entfernen"
 
 #: includes/taxonomy-images/taxonomy-images.php:657
 msgid "Association successfully removed"
-msgstr "Usunięto powiązanie."
+msgstr "Verbindung erfolgreich entfernt"
 
 #: includes/taxonomy-images/taxonomy-images.php:662
 msgid "Association could not be removed"
-msgstr "Nie można usunąć powiązania."
+msgstr "Die Verbindung konnte nicht entfernt werden"
 
 #: includes/taxonomy-images/taxonomy-images.php:739
 #: includes/taxonomy-images/taxonomy-images.php:793
 msgid "Image"
-msgstr "Obraz"
+msgstr "Bild"
 
 #: includes/taxonomy-images/taxonomy-images.php:786
 #: includes/taxonomy-images/taxonomy-images.php:823
 msgid "term"
-msgstr "hasło"
+msgstr "Begriff"
 
 #: includes/taxonomy-images/taxonomy-images.php:797
 msgid "Associate an image from your media library to this %1$s."
-msgstr "Powiąż obraz w galerii medi&oacute;w z &bdquo;%1$s&rdquo;."
+msgstr "Verbinde ein Bild aus der Mediathek mit dieser %1$s."
 
 #: includes/taxonomy-images/taxonomy-images.php:846
 msgid "Associate an image with the %1$s named &#8220;%2$s&#8221;."
-msgstr "Powiąż obraz z &bdquo;%1$s&rdquo; o nazwie &bdquo;%2$s&rdquo;."
+msgstr "Verkn&uuml;pfe ein Bild mit %1$s mit dem Namen &#8222;%2$s&#8220;."
 
 #: includes/taxonomy-images/taxonomy-images.php:847
 msgid "Upload a new image for this %s."
-msgstr "Załaduj nowy obraz dla &bdquo;%s&rdquo;."
+msgstr "Ein neues Bild f&uuml;r dieses %s hochladen."
 
 #: includes/taxonomy-images/taxonomy-images.php:847
 msgid "Upload."
-msgstr "Załaduj"
+msgstr "Hochladen."
 
 #: includes/taxonomy-images/taxonomy-images.php:848
 msgid "Delete"
-msgstr "Usuń"
+msgstr "L&ouml;schen"
 
 #: includes/taxonomy-images/taxonomy-images.php:848
 msgid "Remove image from this %s."
-msgstr "Usuń obraz z &bdquo;%s&rdquo;."
+msgstr "Bild von diesem %s entfernen."
 
 #: includes/taxonomy-images/taxonomy-images.php:882
 msgid "&#8220;"
-msgstr "&bdquo;"
+msgstr "&#8222;"
 
 #: includes/taxonomy-images/taxonomy-images.php:883
 msgid "&#8221;"
-msgstr "&#rdquo;"
+msgstr "&#8220;"
 
 #: includes/taxonomy-images/taxonomy-images.php:884
 msgid "Associating &#8230;"
-msgstr "Związywanie&hellip;"
+msgstr "Verbinde &#8230;"
 
 #: includes/taxonomy-images/taxonomy-images.php:885
 msgid "Successfully Associated"
-msgstr "Związano"
+msgstr "Erfolgreich verbunden"
 
 #: includes/taxonomy-images/taxonomy-images.php:886
 msgid "Removing &#8230;"
-msgstr "Rozwiązywanie&hellip;"
+msgstr "Entferne &#8230;"
 
 #: includes/taxonomy-images/taxonomy-images.php:887
 msgid "Successfully Removed"
-msgstr "Rozwiązano"
+msgstr "Erfolgreich entfernt"
 
 #: includes/taxonomy-images/taxonomy-images.php:1162
 msgid ""
 "The %1$s argument for %2$s is set to %3$s which is not a registered "
 "taxonomy. Please check the spelling and update the argument."
 msgstr ""
-"Ustawienie &bdquo;%3$s&rdquo; parametru &bdquo;%1$s&rdquo; dla &bdquo;"
-"%2$s&rdquo; nie jest zarejestrowaną systematyką. Proszę sprawdź jego "
-"pisownię i dostosuj parametr."
+"Das %1$s Argument f&uuml;r %2$s wurde als %3$s festgelegt, was keine "
+"registrierte Gruppierung (Taxonomie) ist. Bitte &uuml;berpr&uuml;fe die "
+"Schreibweise und aktualisiere das Argument."
 
 #: includes/taxonomy-images/taxonomy-images.php:1163
 msgid "taxonomy"
-msgstr "systematyka"
+msgstr "gruppierung"
 
 #: includes/taxonomy-images/taxonomy-images.php:1174
 msgid "No taxonomies have image support. %1$s"
-msgstr "Brak systematyki powiązanej z obrazem. %1$s"
+msgstr "Keine Gruppierungen unterst&uuml;tzen Bilder. %1$s"
 
 #: includes/taxonomy-images/taxonomy-images.php:1180
 msgid "The %1$s taxonomy does not have image support. %2$s"
-msgstr "Systematyce &bdquo;%1$s&rdquo; brakuje powiązanego obrazu. %2$s"
+msgstr "Die Gruppierung &#8222;%1$s&#8220; unterst&uuml;tzt keine Bilder. %2$s"
 
 #: includes/taxonomy-images/taxonomy-images.php:1206
 msgid "The %1$s has been called directly. Please use the %2$s filter instead."
 msgstr ""
-"Bezpośrednio wywołano %1$s, w zamian proszę zastosuj filtr &bdquo;"
-"%2$s&rdquo;."
+"&#8222;%1$s&#8220; wurde direkt aufgerufen. Bitte stattdessen den Filter "
+"&#8222;%2$s&#8220; verwenden."
 
 #: includes/taxonomy-images/taxonomy-images.php:1243
 msgid "Donate"
-msgstr "Ofiaruj"
+msgstr "Spenden"
 
 #. translators: %s see msgid "Preacher"
 #: includes/taxonomy-images/taxonomy-images.php:1302
 #: includes/taxonomy-images/taxonomy-images.php:1303
 msgid "Set %s&rsquo;s image"
-msgstr "Ustaw obraz %s"
+msgstr "%sbild setzen"
 
 #: includes/taxonomy-images/taxonomy-images.php:1304
 #: includes/taxonomy-images/taxonomy-images.php:1305
 msgid "Set Series image"
-msgstr "Ustaw obraz serii"
+msgstr "Serienbild setzen"
 
 #: includes/template-tags.php:127 includes/template-tags.php:424
 #: includes/template-tags.php:463 includes/widgets.php:96
 msgid "Bible Text: "
-msgstr "Cytat biblijny: "
+msgstr "Bibelauszug: "
 
 #: includes/template-tags.php:389
 msgid "Download Files"
-msgstr "Pliki do pobrania"
+msgstr "Dateien zum Herunterladen"
 
 #: includes/template-tags.php:391
 msgid "MP3"
@@ -854,59 +852,59 @@ msgstr ""
 
 #: includes/template-tags.php:394
 msgid "Notes"
-msgstr "Notatki"
+msgstr "Notizen"
 
 #: includes/template-tags.php:397 includes/types-taxonomies.php:378
 msgid "Bulletin"
-msgstr "Biuletyn"
+msgstr "Gemeindebrief"
 
 #: includes/template-tags.php:439
 msgid "Sermon Topics: "
-msgstr "Tematy kazania: "
+msgstr "Predigtthemen: "
 
 #: includes/types-taxonomies.php:58 includes/types-taxonomies.php:68
 msgid "Sermons"
-msgstr "Kazania"
+msgstr "Predigten"
 
 #: includes/types-taxonomies.php:59
 msgid "Sermon"
-msgstr "Kazanie"
+msgstr "Predigt"
 
 #: includes/types-taxonomies.php:60
 msgid "Add New"
-msgstr "Dodaj nowe"
+msgstr "Neue Predigt"
 
 #: includes/types-taxonomies.php:61
 msgid "Add New Sermon"
-msgstr "Dodaj nowe kazanie"
+msgstr "Neue Predigt"
 
 #: includes/types-taxonomies.php:62
 msgid "Edit Sermon"
-msgstr "Edytuj kazanie"
+msgstr "Predigt bearbeiten"
 
 #: includes/types-taxonomies.php:63
 msgid "New Sermon"
-msgstr "Nowe kazanie"
+msgstr "Neue Predigt"
 
 #: includes/types-taxonomies.php:64
 msgid "View Sermon"
-msgstr "Podgląd kazania"
+msgstr "Predigt ansehen"
 
 #: includes/types-taxonomies.php:65
 msgid "Search Sermons"
-msgstr "Wyszukaj kazania"
+msgstr "Predigten durchsuchen"
 
 #: includes/types-taxonomies.php:66
 msgid "No sermons found"
-msgstr "Nie znaleziono kazań"
+msgstr "Es wurden keine Predigten gefunden"
 
 #: includes/types-taxonomies.php:67
 msgid "No sermons found in Trash"
-msgstr "Nie znaleziono kazań w koszu"
+msgstr "Es sind keine Predigten im Papierkorb"
 
 #: includes/types-taxonomies.php:93 includes/types-taxonomies.php:95
 msgid "Preachers"
-msgstr "Kaznodzieje"
+msgstr "Prediger/innen"
 
 #: includes/types-taxonomies.php:94 includes/types-taxonomies.php:96
 #: includes/types-taxonomies.php:97 includes/types-taxonomies.php:98
@@ -915,277 +913,279 @@ msgstr "Kaznodzieje"
 #: includes/types-taxonomies.php:103 includes/types-taxonomies.php:104
 #: includes/types-taxonomies.php:105
 msgid "Preacher"
-msgstr "Kaznodzieja"
+msgstr "Prediger/in"
 
 #: includes/types-taxonomies.php:96
 msgid "Search %s"
-msgstr "Wyszukaj %s"
+msgstr "%s durchsuchen"
 
 #: includes/types-taxonomies.php:97
 msgid "Most frequent %s"
-msgstr "Najczęstszy/a %s"
+msgstr "H&auml;ufigste/n %s"
 
 #: includes/types-taxonomies.php:98
 msgid "All %s"
-msgstr "Wszyscy/tkie %s"
+msgstr "Alle %s"
 
 #: includes/types-taxonomies.php:99
 msgid "Edit %s"
-msgstr "Edytuj %s"
+msgstr "%s bearbeiten"
 
 #: includes/types-taxonomies.php:100
 msgid "Update %s"
-msgstr "Zaktualizuj %s"
+msgstr "%s aktualisieren"
 
 #: includes/types-taxonomies.php:101
 msgid "Add new %s"
-msgstr "Dodaj nowego/ą %s"
+msgstr "Neue/n %s hinzuf&uuml;gen"
 
 #: includes/types-taxonomies.php:102
 msgid "New %s"
-msgstr "Nowy/a %s"
+msgstr "Neue/r %s"
 
 #: includes/types-taxonomies.php:103
 msgid "Separate multiple %s with commas"
-msgstr "Przedzielaj %s przecinkiem"
+msgstr "Trenne mehrere %s durch Kommata"
 
 #: includes/types-taxonomies.php:104
 msgid "Add or remove %s"
-msgstr "Dodaj lub usuń %s"
+msgstr "%s hinzuf&uuml;gen oder entfernen"
 
 #: includes/types-taxonomies.php:105
 msgid "Choose from most frequent %s"
-msgstr "Wybierz z najczęstszych %s"
+msgstr "Aus den h&auml;ufigsten %s ausw&auml;hlen"
 
 #: includes/types-taxonomies.php:123
 msgid "Search sermon series"
-msgstr "Wyszukaj serię kazań"
+msgstr "Predigtserien durchsuchen"
 
 #: includes/types-taxonomies.php:124
 msgid "Most frequent sermon series"
-msgstr "Najczęstsza seria kazań"
+msgstr "H&auml;ufigste Predigtserie"
 
 #: includes/types-taxonomies.php:125
 msgid "All sermon series"
-msgstr "Wszystkie serie kazań"
+msgstr "Alle Predigtserien"
 
 #: includes/types-taxonomies.php:126
 msgid "Edit sermon series"
-msgstr "Edytuj serię kazań"
+msgstr "Predigtserie bearbeiten"
 
 #: includes/types-taxonomies.php:127
 msgid "Update sermon series"
-msgstr "Zaktualizuj serię kazań"
+msgstr "Predigtserie aktualisieren"
 
 #: includes/types-taxonomies.php:128
 msgid "Add new sermon series"
-msgstr "Dodaj nową serię kazań"
+msgstr "Neue Serie hinzuf&uuml;gen"
 
 #: includes/types-taxonomies.php:129
 msgid "New sermon series name"
-msgstr "Nowa nazwa serii kazań"
+msgstr "Neuer Name f&uuml;r eine Predigtserie"
 
 #: includes/types-taxonomies.php:130
 msgid "Separate sermon series with commas"
-msgstr "Przedzielaj serie kazań przecinkiem"
+msgstr "Trenne mehrere Predigtserien durch Kommata"
 
 #: includes/types-taxonomies.php:131
 msgid "Add or remove sermon series"
-msgstr "Dodaj lub usuń serię kazań"
+msgstr "Predigtserie hinzuf&uuml;gen oder entfernen"
 
 #: includes/types-taxonomies.php:132
 msgid "Choose from most used sermon series"
-msgstr "Wybierz z najczęstszej serii kazań"
+msgstr "Aus den am meisten genutzten Predigtserien ausw&auml;hlen"
 
 #: includes/types-taxonomies.php:147 includes/types-taxonomies.php:148
 #: includes/types-taxonomies.php:149
 msgid "Sermon Topics"
-msgstr "Tematy kazania"
+msgstr "Predigtthemen"
 
 #: includes/types-taxonomies.php:150
 msgid "Search sermon topics"
-msgstr "Wyszukaj tematy kazania"
+msgstr "Predigtthemen durchsuchen"
 
 #: includes/types-taxonomies.php:151
 msgid "Most popular sermon topics"
-msgstr "Najpopularniejsze tematy kazania"
+msgstr "Popul&auml;rste Themen"
 
 #: includes/types-taxonomies.php:152
 msgid "All sermon topics"
-msgstr "Wszystkie tematy kazania"
+msgstr "Alle Predigtthemen"
 
 #: includes/types-taxonomies.php:153
 msgid "Edit sermon topic"
-msgstr "Edytuj temat kazania"
+msgstr "Predigtthema bearbeiten"
 
 #: includes/types-taxonomies.php:154
 msgid "Update sermon topic"
-msgstr "Zaktualizuj temat kazania"
+msgstr "Predigtthema aktualisieren"
 
 #: includes/types-taxonomies.php:155
 msgid "Add new sermon topic"
-msgstr "Dodaj nowy temat kazania"
+msgstr "Neues Predigtthema"
 
 #: includes/types-taxonomies.php:156
 msgid "New sermon topic"
-msgstr "Nowy temat kazania"
+msgstr "Neues Predigtthema"
 
 #: includes/types-taxonomies.php:157
 msgid "Separate sermon topics with commas"
-msgstr "Przedzielaj tematy kazania przecinkiem"
+msgstr "Trenne Predigtthemen durch Kommata"
 
 #: includes/types-taxonomies.php:158
 msgid "Add or remove sermon topics"
-msgstr "Dodaj lub usuń tematy kazania"
+msgstr "Predigtthemen hinzuf&uuml;gen oder entfernen"
 
 #: includes/types-taxonomies.php:159
 msgid "Choose from most used sermon topics"
-msgstr "Wybierz z najczęstszych temat&oacute;w kazania"
+msgstr "Aus den am meisten genutzten Predigtthemen ausw&auml;hlen"
 
 #: includes/types-taxonomies.php:174 includes/types-taxonomies.php:175
 #: includes/types-taxonomies.php:176
 msgid "Book of the Bible"
-msgstr "Księga biblijna"
+msgstr "Buch der Bibel"
 
 #: includes/types-taxonomies.php:177
 msgid "Search books of the Bible"
-msgstr "Wyszukaj księgę biblijną"
+msgstr "B&uuml;cher der Bibel durchsuchen"
 
 #: includes/types-taxonomies.php:178
 msgid "Most popular books of the Bible"
-msgstr "Najpopularniejsze księgi biblijne"
+msgstr "Popul&auml;rste B&uuml;cher der Bibel"
 
 #: includes/types-taxonomies.php:179
 msgid "All books of the Bible"
-msgstr "Wszystkie księgi biblijne"
+msgstr "Alle B&uuml;cher der Bibel"
 
 #: includes/types-taxonomies.php:180
 msgid "Edit book of the Bible"
-msgstr "Edytuj księgę biblijną"
+msgstr "Buch der Bibel bearbeiten"
 
 #: includes/types-taxonomies.php:181
 msgid "Update book of the Bible"
-msgstr "Zaktualizuj księgę biblijną"
+msgstr "Buch der Bibel aktualisieren"
 
 #: includes/types-taxonomies.php:182
 msgid "Add new books of the Bible"
-msgstr "Dodaj nową księgę biblijną"
+msgstr "Neues Buch hinzuf&uuml;gen"
 
 #: includes/types-taxonomies.php:183
 msgid "New book of the Bible"
-msgstr "Nowa księga biblijna"
+msgstr "Neues Buch der Bibel"
 
 #: includes/types-taxonomies.php:184
 msgid "Separate books of the Bible with commas"
-msgstr "Przedzielaj księgi biblijne przecinkiem"
+msgstr "Trenne mehrere B&uuml;cher durch Kommata"
 
 #: includes/types-taxonomies.php:185
 msgid "Add or remove books of the Bible"
-msgstr "Dodaj lub usuń księgi biblijne"
+msgstr "B&uuml;cher hinzuf&uuml;gen oder entfernen"
 
 #: includes/types-taxonomies.php:186
 msgid "Choose from most used books of the Bible"
-msgstr "Wybierz z najczęściej używanych ksiąg biblijnych"
+msgstr "Aus den am meisten genutzten B&uuml;chern ausw&auml;hlen"
 
 #: includes/types-taxonomies.php:201 includes/types-taxonomies.php:202
 #: includes/types-taxonomies.php:203 includes/types-taxonomies.php:309
 msgid "Service Type"
-msgstr "Rodzaj usługi"
+msgstr "Dienstart"
 
 #: includes/types-taxonomies.php:204
 msgid "Search service types"
-msgstr "Wyszukaj rodzaje usługi"
+msgstr "Dienstarten durchsuchen"
 
 #: includes/types-taxonomies.php:205
 msgid "Most popular service types"
-msgstr "Najpopularniejsze rodzaje usługi"
+msgstr "Die am meisten genutzten Dienstarten"
 
 #: includes/types-taxonomies.php:206
 msgid "All service types"
-msgstr "Wszystkie rodzaje usługi"
+msgstr "Alle Dienstarten"
 
 #: includes/types-taxonomies.php:207
 msgid "Edit service type"
-msgstr "Edytuj rodzaj usługi"
+msgstr "Dienstart bearbeiten"
 
 #: includes/types-taxonomies.php:208
 msgid "Update service type"
-msgstr "Zaktualizuj rodzaj usługi"
+msgstr "Dienstart aktualisieren"
 
 #: includes/types-taxonomies.php:209
 msgid "Add new service types"
-msgstr "Dodaj nowe rodzaje usługi"
+msgstr "Neue Dienstarten hinzuf&uuml;gen"
 
 #: includes/types-taxonomies.php:210
 msgid "New Service Type"
-msgstr "Nowy rodzaj usługi"
+msgstr "Neue Dienstart"
 
 #: includes/types-taxonomies.php:211
 msgid "Separate service types with commas"
-msgstr "Przedzielaj rodzaje usługi przecinkami"
+msgstr "Trenne Dienstarten durch Kommata"
 
 #: includes/types-taxonomies.php:212
 msgid "Add or remove service types"
-msgstr "Dodaj lub usuń rodzaje usługi"
+msgstr "Dienstarten hinzuf&uuml;gen oder entfernen"
 
 #: includes/types-taxonomies.php:213
 msgid "Choose from most used service types"
-msgstr "Wybierz z najczęściej używanych rodzaj&oacute;w usługi"
+msgstr "Aus den am meisten genutzten Dienstarten ausw&auml;hlen"
 
 #: includes/types-taxonomies.php:273
 msgid "Sermon Details"
-msgstr "Szczeg&oacute;ły kazania"
+msgstr "Predigtdetails"
 
 #. translators: %s date format, effectively <code>d/m/Y</code> or the like
 #: includes/types-taxonomies.php:302
 msgid "format: %s"
-msgstr ""
+msgstr "Format: %s"
 
 #: includes/types-taxonomies.php:310
 msgid ""
 "Select the type of service. Modify service types in Sermons &rarr; Service "
 "Types."
 msgstr ""
-"Wybierz rodzaj usługi. Możesz edytować rodzaje usługi poprzez Kazania &rarr; "
-"Rodzaj usługi."
+"Dienstart ausw&auml;hlen. Dienstarten k&ouml;nnen &uuml;ber Predigten &rarr; "
+"Dienstart ge&auml;ndert werden."
 
 #: includes/types-taxonomies.php:317
 msgid "Main Bible Passage"
-msgstr "Gł&oacute;wny fragment biblii"
+msgstr "Hauptbibelstelle"
 
 #. translators: %s see msgid "John 3:16-18", effectively <code>John 3:16-18</code>
 #: includes/types-taxonomies.php:318
 msgid "Enter the Bible passage with the full book names, e.g. %s."
-msgstr "Wprowadź fragment biblii razem z pełnymi nazwami ksiąg, np. %s."
+msgstr "Trage die Bibelstelle mit vollem Buchnamen ein, z.B.: %s."
 
 #: includes/types-taxonomies.php:318
 msgid "John 3:16-18"
-msgstr "Jana 3, 16-18"
+msgstr "Johannes 3, 16-18"
 
 #: includes/types-taxonomies.php:324
 msgid ""
 "Type a brief description about this sermon, an outline, or a full manuscript"
-msgstr "Wprowadź kr&oacute;tki opis, zarys lub pełny rękopis kazania."
+msgstr ""
+"Schreibe ein kurze Beschreibung &uuml;ber die Predigt, eine Gliederung oder "
+"ein ganzes Manuskript"
 
 #: includes/types-taxonomies.php:332
 msgid "Sermon Files"
-msgstr "Pliki do kazania"
+msgstr "Predigtdateien"
 
 #: includes/types-taxonomies.php:341
 msgid "Location of MP3"
-msgstr "Położenie pliku MP3"
+msgstr "Ort der MP3&#8209;Datei"
 
 #: includes/types-taxonomies.php:342
 msgid "Upload an audio file or enter an URL."
-msgstr "Załaduj plik dźwiękowy lub wprowadź URL."
+msgstr "Lade eine Audiodatei hoch oder gib eine URL an."
 
 #: includes/types-taxonomies.php:346
 msgid "Add Sermon Audio"
-msgstr "Dodaj&nbsp;nagranie&nbsp;kazania"
+msgstr "Aufnahme&nbsp;hinzuf&uuml;gen"
 
 #: includes/types-taxonomies.php:350
 msgid "MP3 Duration"
-msgstr "Czas nagrania MP3"
+msgstr "MP3&#8209;Spieldauer"
 
 #. translators: %s see msgid "hh:mm:ss", effectively <code>hh:mm:ss</code>
 #: includes/types-taxonomies.php:351
@@ -1193,79 +1193,83 @@ msgid ""
 "Length in %s format (if left blank, will attempt to calculate automatically "
 "when you save)"
 msgstr ""
-"Długość czasowa nagrania w formacie %s. Jeśli pole pozostanie puste, to gdy "
-"zapiszesz kazanie, będzie próbowano automatycznie obliczyć długość czasową."
+"Spieldauer im %s&#8209;Format. Wird das Feld leer gelassen, so wird versucht "
+"werden die Spieldauer beim Speichern automatisch zu ermitteln."
 
 #: includes/types-taxonomies.php:351
 msgid "hh:mm:ss"
-msgstr "gg:mm:ss"
+msgstr ""
 
 #: includes/types-taxonomies.php:356
 msgid "Video Embed Code"
-msgstr "Kod osadzający wideo"
+msgstr "Videoeinbettungscode"
 
 #: includes/types-taxonomies.php:357
 msgid "Paste your embed code for Vimeo, Youtube, or other service here"
 msgstr ""
-"Wprowadź tu kod osadzający Twoje wideo z Vimeo, YouTube lub innego serwisu"
+"F&uuml;ge hier den Einbettungscode von Vimeo, Youtube oder eines anderen "
+"Dienstes ein"
 
 #: includes/types-taxonomies.php:362
 msgid "Video Link"
-msgstr "Odnośnik wideo"
+msgstr "Videoverkn&uuml;pfung"
 
 #: includes/types-taxonomies.php:363
 msgid "Paste your link for Vimeo, Youtube, or other service here"
-msgstr "Wprowadź tu odnośnik do Vimeo, YouTube lub innego serwisu"
+msgstr ""
+"F&uuml;ge hier die Verkn&uuml;pfung von Vimeo, Youtube oder eines anderen "
+"Dienstes ein"
 
 #: includes/types-taxonomies.php:369
 msgid "Sermon Notes"
-msgstr "Notatki do kazania"
+msgstr "Predigtnotizen"
 
 #: includes/types-taxonomies.php:370 includes/types-taxonomies.php:379
 msgid "Upload a pdf file or enter an URL."
-msgstr "Załaduj plik PDF lub wprowadź URL."
+msgstr "Lade eine PDF&#8209;Datei hoch oder gib eine URL zu einem Dokument an."
 
 #: includes/types-taxonomies.php:374 includes/types-taxonomies.php:383
 msgid "Add File"
-msgstr "Dodaj&nbsp;plik"
+msgstr "Datei&nbsp;hinzuf&uuml;gen"
 
 #: includes/widgets.php:12
 msgid "The most recent sermons on your site"
-msgstr "Najnowsze kazania w witrynie internetowej"
+msgstr "Die neuesten Predigten auf Deine Seite"
 
 #: includes/widgets.php:14 includes/widgets.php:43
 msgid "Recent Sermons"
-msgstr "Najnowsze kazania"
+msgstr "Neueste Predigten"
 
 #: includes/widgets.php:134
 msgid "Title:"
-msgstr "Tytuł:"
+msgstr "Titel:"
 
 #: includes/widgets.php:140
 msgid "Number of sermons to show:"
-msgstr "Ilość kazań do pokazania:"
+msgstr "Anzahl der anzuzeigenden Predigten:"
 
 #. translators: plugin header field "Plugin Name"
 #: sermons.php:3
 msgid "Sermon Manager for WordPress"
-msgstr "Menadżer Kazań dla WordPress"
+msgstr "Predigtverwaltung f&uuml;r WordPress"
 
 #. translators: plugin header field "Description"
 #: sermons.php:5
 msgid "Add audio and video sermons, manage speakers, series, and more."
 msgstr ""
-"Dodawaj kazania w postaci słuchowiska i wideo, zarządzaj kaznodziejami, "
-"seriami kazań i wiele więcej."
+"Erm&ouml;glicht das Hinzuf&uuml;gen von Audio&#8209; und Video&#8209;"
+"Predigten, die Verwaltung von Sprechern und Sprecherinnen sowie "
+"Predigtserien und mehr."
 
 #. translators: %s see msgid "&larr;", effectively <span class="meta-nav">&larr;</span>
 #: views/archive-wpfc_sermon.php:18 views/archive-wpfc_sermon.php:71
 msgid "%s Older sermons"
-msgstr "%s Starsze kazania"
+msgstr "%s &Auml;ltere Predigten"
 
 #. translators: %s see msgid "&rarr;", effectively <span class="meta-nav">&rarr;</span>
 #: views/archive-wpfc_sermon.php:21 views/archive-wpfc_sermon.php:74
 msgid "Newer sermons %s"
-msgstr "Nowsze kazania %s"
+msgstr "Neuere Predigten %s"
 
 #: views/archive-wpfc_sermon.php:28 views/taxonomy-wpfc_bible_book.php:45
 #: views/taxonomy-wpfc_preacher.php:51
@@ -1273,7 +1277,7 @@ msgstr "Nowsze kazania %s"
 #: views/taxonomy-wpfc_sermon_topics.php:52
 #: views/taxonomy-wpfc_service_type.php:45
 msgid "Not Found"
-msgstr "Nie znaleziono"
+msgstr "Nicht gefunden"
 
 #: views/archive-wpfc_sermon.php:30 views/taxonomy-wpfc_bible_book.php:47
 #: views/taxonomy-wpfc_preacher.php:53
@@ -1281,12 +1285,12 @@ msgstr "Nie znaleziono"
 #: views/taxonomy-wpfc_sermon_topics.php:54
 #: views/taxonomy-wpfc_service_type.php:47
 msgid "Apologies, but no sermons were found."
-msgstr "Przepraszamy, ale nie znaleziono kazań"
+msgstr "Es tut uns leid, aber es wurden keine Predigten gefunden."
 
 #. translators: %s date
 #: views/archive-wpfc_sermon.php:47 views/taxonomy-wpfc_bible_book.php:77
 msgid "Preached on %s"
-msgstr "Wygłoszono dnia %s"
+msgstr "Gehalten am %s"
 
 #: views/archive-wpfc_sermon.php:60 views/taxonomy-wpfc_bible_book.php:88
 #: views/taxonomy-wpfc_preacher.php:94
@@ -1295,9 +1299,8 @@ msgstr "Wygłoszono dnia %s"
 #: views/taxonomy-wpfc_service_type.php:88
 msgid "%s Comment"
 msgid_plural "%s Comments"
-msgstr[0] "%s komentarz"
-msgstr[1] "%s komentarze"
-msgstr[2] "%s komentarzy"
+msgstr[0] "%s Kommentar"
+msgstr[1] "%s Kommentare"
 
 #: views/archive-wpfc_sermon.php:60 views/taxonomy-wpfc_bible_book.php:88
 #: views/taxonomy-wpfc_preacher.php:94
@@ -1305,7 +1308,7 @@ msgstr[2] "%s komentarzy"
 #: views/taxonomy-wpfc_sermon_topics.php:95
 #: views/taxonomy-wpfc_service_type.php:88
 msgid "Leave a comment"
-msgstr "Pozostaw komentarz"
+msgstr "Kommentar hinterlassen"
 
 #: views/archive-wpfc_sermon.php:62 views/single-wpfc_sermon.php:35
 #: views/taxonomy-wpfc_bible_book.php:89 views/taxonomy-wpfc_preacher.php:95
@@ -1313,7 +1316,7 @@ msgstr "Pozostaw komentarz"
 #: views/taxonomy-wpfc_sermon_topics.php:96
 #: views/taxonomy-wpfc_service_type.php:89
 msgid "Edit"
-msgstr "Edytuj"
+msgstr "Bearbeiten"
 
 #: views/single-wpfc_sermon.php:42
 msgctxt "Previous post link"
@@ -1327,7 +1330,7 @@ msgstr ""
 
 #: views/taxonomy-wpfc_bible_book.php:20
 msgid "Sermons by Book: %s"
-msgstr "Kazania według księgi: %s"
+msgstr "Predigten nach Buch: %s"
 
 #. translators: %s see msgid "&larr;", effectively <span class="meta-nav">&larr;</span>
 #: views/taxonomy-wpfc_bible_book.php:36 views/taxonomy-wpfc_bible_book.php:99
@@ -1339,7 +1342,7 @@ msgstr "Kazania według księgi: %s"
 #: views/taxonomy-wpfc_service_type.php:36
 #: views/taxonomy-wpfc_service_type.php:99
 msgid "%s Older posts"
-msgstr "%s Starsze wpisy"
+msgstr "%s &Auml;ltere Eintr&auml;ge"
 
 #. translators: %s see msgid "&rarr;", effectively <span class="meta-nav">&rarr;</span>
 #: views/taxonomy-wpfc_bible_book.php:38
@@ -1352,20 +1355,20 @@ msgstr "%s Starsze wpisy"
 #: views/taxonomy-wpfc_service_type.php:38
 #: views/taxonomy-wpfc_service_type.php:101
 msgid "Newer posts %s"
-msgstr "Nowsze wpisy %s"
+msgstr "Neuere Eintr&auml;ge %s"
 
 #: views/taxonomy-wpfc_preacher.php:20
 msgid "Sermons by: %s"
-msgstr "Kazania według kaznodzieja: %s"
+msgstr "Predigten von: %s"
 
 #: views/taxonomy-wpfc_sermon_series.php:20
 msgid "Sermons Series: %s"
-msgstr "Kazania z serii: %s"
+msgstr "Predigtserie: %s"
 
 #: views/taxonomy-wpfc_sermon_topics.php:20
 msgid "Sermons Topic: %s"
-msgstr "Tematy kazań: %s"
+msgstr "Predigtthema: %s"
 
 #: views/taxonomy-wpfc_service_type.php:20
 msgid "Sermons By Service: %s"
-msgstr "Kazania według usługi: %s"
+msgstr "Predigten nach Dienstart: %s"

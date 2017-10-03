@@ -89,6 +89,11 @@ Visit the [plugin homepage](https://wpforchurch.com/wordpress-plugins/sermon-man
 2. Sermon Files
 
 ## Changelog ##
+### 2.6.3 ###
+* Backport README.md update
+* Update de and pl translations
+* Fix gettext text domain name
+
 ### 2.6.2 ###
 * Add more `<span>` elements for more styling options
 * Fix podcast feed not working
